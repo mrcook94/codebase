@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "src/*"
+            ],
+            "test/*": [
+                "test/*"
+            ],
+            "src": [
+                "src/*"
+            ],
+            "libraries": [
+                "src/libraries/*"
+            ],
+            "assets": [
+                "src/assets/*"
+            ],
+            "routers": [
+                "src/routers/*"
+            ],
+            "my-redux": [
+                "src/my-redux/*"
+            ],
+            "screens": [
+                "src/screens/*"
+            ],
+            "styles": [
+                "src/styles/*"
+            ],
+            "networking": [
+                "src/networking/*"
+            ]
+        }
+    }
+}
